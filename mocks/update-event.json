@@ -1,0 +1,11 @@
+{
+  "body": "{\"type\": \"actionplan3\",\"children\": [\"note3\",\"weblink3\"]}",
+  "pathParameters": {
+    "id": "9de5cf50-eff1-11e7-910c-690f9691bc75"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}

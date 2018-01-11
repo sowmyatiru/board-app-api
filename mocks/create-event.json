@@ -1,0 +1,8 @@
+{
+  "body": "{\"type\": \"actionplan2\",\"children\": [\"note2\",\"weblink2\"]}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
